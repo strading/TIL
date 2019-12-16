@@ -111,7 +111,7 @@ origin  https://github.com/strading/Today.git (push)
 
 ```
 
-### 3. push
+### 2. push
 
 ```bash
 $ git push origin master
