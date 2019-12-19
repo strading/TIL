@@ -12,8 +12,12 @@ makes = print(prices.split(";"))
 boxes = []
 # list -> append
 
+#for make in makes:
+#   boxes.append(int(make))
 for make in makes:
     boxes.append(int(make))
+
+
 
 #list -> sort{}
 boxes.sort(reverse = True)
